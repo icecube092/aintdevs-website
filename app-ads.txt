@@ -1,4 +1,5 @@
 google.com,pub-9041711183144735,DIRECT,f08c47fec0942fa0
+google.com, pub-9041711183144735, DIRECT, f08c47fec0942fa0
 rubiconproject.com,22884,DIRECT,0bfd66d529a55807
 sharethrough.com,4194-OB,RESELLER,d53b998a7bd4ecd5
 onetag.com,965fdffa903a664,DIRECT
